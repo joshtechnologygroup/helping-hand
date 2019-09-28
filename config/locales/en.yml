@@ -20,4 +20,12 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  empty_password: "password can't be empty"
+  gender_invalid: "gender either empty or invalid. Gender can be male, female or other"
+  invalid_token: "invalid token"
+  logout_success: "logged out successfully"
+  not_found: "not found"
+  old_password: "old password doesn't match"
+  password_change_success: "password successfully changed"
+  unauthenticated: "invalid credentials, user not authenticated"
+  unauthorized: "not authorized to perform this action"
