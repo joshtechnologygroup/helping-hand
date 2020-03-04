@@ -10,7 +10,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'jsonapi-serializers', '~> 1.0.1'
 gem 'jwt', '~> 2.1.0'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'pundit', '~> 2.0.1'
 gem 'rails', '~> 5.0.7', '>= 5.0.7.1'
 gem 'whenever', '~> 0.11.0', require: false
